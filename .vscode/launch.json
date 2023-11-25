@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\chepestPhone.js"
+            "program": "${workspaceFolder}\\multiLayerDiscount.js"
         }
     ]
 }
